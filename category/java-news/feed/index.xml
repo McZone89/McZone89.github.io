@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Java News &#8211; McZone</title>
-	<atom:link href="https://mczone89.github.io/category/java-news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mczone89.github.io</link>
+	<atom:link href="http://mczone89.github.io/category/java-news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mczone89.github.io</link>
 	<description>A Minecraft News Site</description>
 	<lastBuildDate>Thu, 20 Jan 2022 20:56:31 +0000</lastBuildDate>
 	<language>en-CA</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<url>http://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
 	<title>Java News &#8211; McZone</title>
-	<link>https://mczone89.github.io</link>
+	<link>http://mczone89.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Minecraft: Java Edition 1.18.1</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:54:09 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Java News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=735</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=735</guid>
 
-					<description><![CDATA[We’re now releasing Minecraft: Java Edition 1.18.1. This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs. If you are running a multiplayer server, we highly encourage you to upgrade to this version as soon &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/"> <span class="screen-reader-text">Minecraft: Java Edition 1.18.1</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[We’re now releasing Minecraft: Java Edition 1.18.1. This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs. If you are running a multiplayer server, we highly encourage you to upgrade to this version as soon &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/"> <span class="screen-reader-text">Minecraft: Java Edition 1.18.1</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="735" class="elementor elementor-735" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -62,15 +62,15 @@
 			</item>
 		<item>
 		<title>MINECRAFT SNAPSHOT 22W03A</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:52:06 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Java News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=736</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=736</guid>
 
-					<description><![CDATA[Happy New Year!&#160; It&#8217;s time for the first snapshot of 2022 to hit the shelves. This snapshot series will be leading up to the release of 1.18.2. With this release we aim to address a few issues before moving on and starting with the Wild Update snapshots. This snapshot contains tweaks to the world seed &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/"> <span class="screen-reader-text">MINECRAFT SNAPSHOT 22W03A</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Happy New Year!&#160; It&#8217;s time for the first snapshot of 2022 to hit the shelves. This snapshot series will be leading up to the release of 1.18.2. With this release we aim to address a few issues before moving on and starting with the Wild Update snapshots. This snapshot contains tweaks to the world seed &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/"> <span class="screen-reader-text">MINECRAFT SNAPSHOT 22W03A</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="736" class="elementor elementor-736" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">

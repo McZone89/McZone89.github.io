@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Other News &#8211; McZone</title>
-	<atom:link href="https://mczone89.github.io/category/other-news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mczone89.github.io</link>
+	<atom:link href="http://mczone89.github.io/category/other-news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mczone89.github.io</link>
 	<description>A Minecraft News Site</description>
 	<lastBuildDate>Thu, 20 Jan 2022 21:00:35 +0000</lastBuildDate>
 	<language>en-CA</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<url>http://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
 	<title>Other News &#8211; McZone</title>
-	<link>https://mczone89.github.io</link>
+	<link>http://mczone89.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Minecraft Education Edition &#8211; 1.0.1</title>
-		<link>https://mczone89.github.io/2022/01/20/education-edition-1-0-1/</link>
+		<link>http://mczone89.github.io/2022/01/20/education-edition-1-0-1/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:59:03 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Other News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=737</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=737</guid>
 
-					<description><![CDATA[For more information about Minecraft: Education Edition, please visit education.minecraft.net New Features: Code Builder &#38; Agent Command blocks &#38; minecart with command block Adventure Mode New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle New user interface for Classroom Mode Added the ability to toggle chat &#38; weather in Classroom Mode Added &#8216;/position&#8217; command &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/education-edition-1-0-1/"> <span class="screen-reader-text">Minecraft Education Edition &#8211; 1.0.1</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[For more information about Minecraft: Education Edition, please visit education.minecraft.net New Features: Code Builder &#38; Agent Command blocks &#38; minecart with command block Adventure Mode New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle New user interface for Classroom Mode Added the ability to toggle chat &#38; weather in Classroom Mode Added &#8216;/position&#8217; command &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/education-edition-1-0-1/"> <span class="screen-reader-text">Minecraft Education Edition &#8211; 1.0.1</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="737" class="elementor elementor-737" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">

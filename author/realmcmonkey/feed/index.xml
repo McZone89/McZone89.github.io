@@ -9,8 +9,8 @@
 
 <channel>
 	<title>realmcmonkey &#8211; McZone</title>
-	<atom:link href="https://mczone89.github.io/author/realmcmonkey/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mczone89.github.io</link>
+	<atom:link href="http://mczone89.github.io/author/realmcmonkey/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mczone89.github.io</link>
 	<description>A Minecraft News Site</description>
 	<lastBuildDate>Thu, 20 Jan 2022 21:15:30 +0000</lastBuildDate>
 	<language>en-CA</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<url>http://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
 	<title>realmcmonkey &#8211; McZone</title>
-	<link>https://mczone89.github.io</link>
+	<link>http://mczone89.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</title>
-		<link>https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/</link>
+		<link>http://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 21:13:29 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Dungeons News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=740</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=740</guid>
 
-					<description><![CDATA[1.12.2.0 (Consoles Only) &#8211; January 12, 2022 There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb. Please search for any bugs you find on bugs.mojang.com and let us know what you think at feedback.minecraft.net. We appreciate your continued support in reporting issues! Fixes: Improved stability of &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/"> <span class="screen-reader-text">Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[1.12.2.0 (Consoles Only) &#8211; January 12, 2022 There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb. Please search for any bugs you find on bugs.mojang.com and let us know what you think at feedback.minecraft.net. We appreciate your continued support in reporting issues! Fixes: Improved stability of &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/"> <span class="screen-reader-text">Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="740" class="elementor elementor-740" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -62,15 +62,15 @@
 			</item>
 		<item>
 		<title>REMOVING THE ADDITIONAL MODDING CAPABILITIES/SCRIPT API EXPERIMENTAL FEATURE</title>
-		<link>https://mczone89.github.io/2022/01/20/goodbye-scripts/</link>
+		<link>http://mczone89.github.io/2022/01/20/goodbye-scripts/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 21:04:58 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Bedrock News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=739</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=739</guid>
 
-					<description><![CDATA[JavaScript APIs launched in beta in 2018 are expected to be removed from Minecraft in March 2022   If you do not know/understand what the Bedrock Scripting API is/was then here is a video from ForgeLogical who shows what it can do with 2 amazing template packs https://www.youtube.com/watch?v=PiXf4qNYoew Removing the Additional Modding Capabilities/Script API Experimental &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/goodbye-scripts/"> <span class="screen-reader-text">REMOVING THE ADDITIONAL MODDING CAPABILITIES/SCRIPT API EXPERIMENTAL FEATURE</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[JavaScript APIs launched in beta in 2018 are expected to be removed from Minecraft in March 2022   If you do not know/understand what the Bedrock Scripting API is/was then here is a video from ForgeLogical who shows what it can do with 2 amazing template packs https://www.youtube.com/watch?v=PiXf4qNYoew Removing the Additional Modding Capabilities/Script API Experimental &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/goodbye-scripts/"> <span class="screen-reader-text">REMOVING THE ADDITIONAL MODDING CAPABILITIES/SCRIPT API EXPERIMENTAL FEATURE</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="739" class="elementor elementor-739" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -105,15 +105,15 @@
 			</item>
 		<item>
 		<title>Minecraft Education Edition &#8211; 1.0.1</title>
-		<link>https://mczone89.github.io/2022/01/20/education-edition-1-0-1/</link>
+		<link>http://mczone89.github.io/2022/01/20/education-edition-1-0-1/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:59:03 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Other News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=737</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=737</guid>
 
-					<description><![CDATA[For more information about Minecraft: Education Edition, please visit education.minecraft.net New Features: Code Builder &#38; Agent Command blocks &#38; minecart with command block Adventure Mode New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle New user interface for Classroom Mode Added the ability to toggle chat &#38; weather in Classroom Mode Added &#8216;/position&#8217; command &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/education-edition-1-0-1/"> <span class="screen-reader-text">Minecraft Education Edition &#8211; 1.0.1</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[For more information about Minecraft: Education Edition, please visit education.minecraft.net New Features: Code Builder &#38; Agent Command blocks &#38; minecart with command block Adventure Mode New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle New user interface for Classroom Mode Added the ability to toggle chat &#38; weather in Classroom Mode Added &#8216;/position&#8217; command &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/education-edition-1-0-1/"> <span class="screen-reader-text">Minecraft Education Edition &#8211; 1.0.1</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="737" class="elementor elementor-737" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -137,15 +137,15 @@
 			</item>
 		<item>
 		<title>Minecraft: Java Edition 1.18.1</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:54:09 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Java News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=735</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=735</guid>
 
-					<description><![CDATA[We’re now releasing Minecraft: Java Edition 1.18.1. This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs. If you are running a multiplayer server, we highly encourage you to upgrade to this version as soon &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/"> <span class="screen-reader-text">Minecraft: Java Edition 1.18.1</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[We’re now releasing Minecraft: Java Edition 1.18.1. This release fixes a critical security issue for multiplayer servers, changes how the world fog works to make more of the world visible, and fixes a couple of other bugs. If you are running a multiplayer server, we highly encourage you to upgrade to this version as soon &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-java-1-18-1/"> <span class="screen-reader-text">Minecraft: Java Edition 1.18.1</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="735" class="elementor elementor-735" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -169,15 +169,15 @@
 			</item>
 		<item>
 		<title>MINECRAFT SNAPSHOT 22W03A</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:52:06 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Java News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=736</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=736</guid>
 
-					<description><![CDATA[Happy New Year!&#160; It&#8217;s time for the first snapshot of 2022 to hit the shelves. This snapshot series will be leading up to the release of 1.18.2. With this release we aim to address a few issues before moving on and starting with the Wild Update snapshots. This snapshot contains tweaks to the world seed &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/"> <span class="screen-reader-text">MINECRAFT SNAPSHOT 22W03A</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Happy New Year!&#160; It&#8217;s time for the first snapshot of 2022 to hit the shelves. This snapshot series will be leading up to the release of 1.18.2. With this release we aim to address a few issues before moving on and starting with the Wild Update snapshots. This snapshot contains tweaks to the world seed &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-snapshot-22w03a/"> <span class="screen-reader-text">MINECRAFT SNAPSHOT 22W03A</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="736" class="elementor elementor-736" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -201,15 +201,15 @@
 			</item>
 		<item>
 		<title>Minecraft Beta &#8211; 1.18.10.28</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:37:17 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Bedrock News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=734</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=734</guid>
 
-					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at bugs.mojang.com The beta update is currently available on Windows and Xbox, and will be coming to Android soon. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.28</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at bugs.mojang.com The beta update is currently available on Windows and Xbox, and will be coming to Android soon. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.28</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="734" class="elementor elementor-734" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -233,15 +233,15 @@
 			</item>
 		<item>
 		<title>Minecraft Beta &#8211; 1.18.10.27</title>
-		<link>https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/</link>
+		<link>http://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 20:15:14 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Bedrock News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=702</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=702</guid>
 
-					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at&#160;aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at&#160;bugs.mojang.com &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Experimental Features &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Frogs Frogs no longer eat Goats! (MCPE-151536) &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features and Bug Fixes &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Blocks Cocoa &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.27</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at&#160;aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at&#160;bugs.mojang.com &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Experimental Features &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Frogs Frogs no longer eat Goats! (MCPE-151536) &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features and Bug Fixes &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Blocks Cocoa &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.27</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="702" class="elementor elementor-702" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">

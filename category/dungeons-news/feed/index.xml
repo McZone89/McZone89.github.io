@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Dungeons News &#8211; McZone</title>
-	<atom:link href="https://mczone89.github.io/category/dungeons-news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mczone89.github.io</link>
+	<atom:link href="http://mczone89.github.io/category/dungeons-news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mczone89.github.io</link>
 	<description>A Minecraft News Site</description>
 	<lastBuildDate>Thu, 20 Jan 2022 21:15:30 +0000</lastBuildDate>
 	<language>en-CA</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<url>http://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
 	<title>Dungeons News &#8211; McZone</title>
-	<link>https://mczone89.github.io</link>
+	<link>http://mczone89.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</title>
-		<link>https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/</link>
+		<link>http://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/</link>
 		
 		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
 		<pubDate>Thu, 20 Jan 2022 21:13:29 +0000</pubDate>
 				<category><![CDATA[All News]]></category>
 		<category><![CDATA[Dungeons News]]></category>
-		<guid isPermaLink="false">https://mczone89.github.io/?p=740</guid>
+		<guid isPermaLink="false">http://mczone89.github.io/?p=740</guid>
 
-					<description><![CDATA[1.12.2.0 (Consoles Only) &#8211; January 12, 2022 There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb. Please search for any bugs you find on bugs.mojang.com and let us know what you think at feedback.minecraft.net. We appreciate your continued support in reporting issues! Fixes: Improved stability of &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/"> <span class="screen-reader-text">Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[1.12.2.0 (Consoles Only) &#8211; January 12, 2022 There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb. Please search for any bugs you find on bugs.mojang.com and let us know what you think at feedback.minecraft.net. We appreciate your continued support in reporting issues! Fixes: Improved stability of &#8230;<p class="read-more"> <a class="" href="http://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/"> <span class="screen-reader-text">Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="740" class="elementor elementor-740" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
