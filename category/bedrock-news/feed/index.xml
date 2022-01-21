@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bedrock News &#8211; McZone</title>
+	<atom:link href="https://mczone89.github.io/category/bedrock-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mczone89.github.io</link>
+	<description>A Minecraft News Site</description>
+	<lastBuildDate>Thu, 20 Jan 2022 21:10:35 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<title>Bedrock News &#8211; McZone</title>
+	<link>https://mczone89.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>REMOVING THE ADDITIONAL MODDING CAPABILITIES/SCRIPT API EXPERIMENTAL FEATURE</title>
+		<link>https://mczone89.github.io/2022/01/20/goodbye-scripts/</link>
+		
+		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 21:04:58 +0000</pubDate>
+				<category><![CDATA[All News]]></category>
+		<category><![CDATA[Bedrock News]]></category>
+		<guid isPermaLink="false">https://mczone89.github.io/?p=739</guid>
+
+					<description><![CDATA[JavaScript APIs launched in beta in 2018 are expected to be removed from Minecraft in March 2022   If you do not know/understand what the Bedrock Scripting API is/was then here is a video from ForgeLogical who shows what it can do with 2 amazing template packs https://www.youtube.com/watch?v=PiXf4qNYoew Removing the Additional Modding Capabilities/Script API Experimental &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/goodbye-scripts/"> <span class="screen-reader-text">REMOVING THE ADDITIONAL MODDING CAPABILITIES/SCRIPT API EXPERIMENTAL FEATURE</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="739" class="elementor elementor-739" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8d76f" data-id="3b8d76f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1ecdd58 elementor-widget elementor-widget-text-editor" data-id="1ecdd58" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h3 class="lead">JavaScript APIs launched in beta in 2018 are expected to be removed from Minecraft in March 2022</h3><p> </p><p>If you do not know/understand what the Bedrock Scripting API is/was then here is a video from <span style="font-size: 16px;">ForgeLogical who shows what it can do with 2 amazing template packs</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f3e2f4b elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="f3e2f4b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=PiXf4qNYoew&quot;,&quot;yt_privacy&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-background-size:cover;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-88f7265 elementor-widget elementor-widget-text-editor" data-id="88f7265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div><div class="container"><div class="row justify-content-center text-center"><div class="col-12 col-md-8 col-lg-6"><h3 class="lead"><b style="font-size: 16px; font-style: inherit;">Removing the Additional Modding Capabilities/Script API Experimental Feature</b></h3></div></div></div></div><div class="aem-Grid aem-Grid--12 aem-Grid--default--12 "><div class="text parbase aem-GridColumn aem-GridColumn--default--12"><div class="container article-paragraph text-generic"><div class="row justify-content-center"><div class="col-md-8 col-lg-6"><div class="end-with-block"><p>In December 2018, we introduced a <a href="https://www.minecraft.net/article/scripting-api-now-public-beta.html">new experimental Scripting API and capability</a> for adding JavaScript to Minecraft worlds to implement gameplay and other experiences.  This beta capability was available on Windows versions of Minecraft Bedrock Edition via the “Additional Modding Capabilities” experiment.  In early 2022, we’re looking to wind down the Additional Modding Capabilities experiment and associated Script API capability and remove it from future versions of Minecraft: Bedrock Edition.  Over the coming weeks, in Minecraft Beta versions we’ll start to remove this functionality, and we plan for it be no longer available in Minecraft Bedrock Edition in the March timeframe. </p><p>Note that the separate script API capabilities included with GameTest Framework are not impacted by this announcement – and we expect to continue adding more APIs to the GameTest Framework experiment.</p><p><b>What will happen to Minecraft Worlds with experimental Scripting APIs and capabilities? </b></p><p>In future versions of Minecraft Bedrock Edition, scripts associated with the “Additional Modding Capabilities” will no longer run within Minecraft, and the Additional Modding Capabilities flag will no longer be visible as an experiment you can add to new worlds.</p><p class="what-block">Worlds with the “Additional Modding Capabilities” experiment will continue to load and run – though because scripting included with those maps will no longer continue to function, gameplay and experience facets of those maps will be impacted.</p></div></div></div></div></div></div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Minecraft Beta &#8211; 1.18.10.28</title>
+		<link>https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/</link>
+		
+		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 20:37:17 +0000</pubDate>
+				<category><![CDATA[All News]]></category>
+		<category><![CDATA[Bedrock News]]></category>
+		<guid isPermaLink="false">https://mczone89.github.io/?p=734</guid>
+
+					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at bugs.mojang.com The beta update is currently available on Windows and Xbox, and will be coming to Android soon. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-28/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.28</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="734" class="elementor elementor-734" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8d76f" data-id="3b8d76f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88f7265 elementor-widget elementor-widget-text-editor" data-id="88f7265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="wysiwyg-text-align-center"><img class="aligncenter" src="https://feedback.minecraft.net/hc/article_attachments/4422099836301/minecraft_villager.jpg" alt="minecraft_villager.jpg" /></p><p>Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at <a href="https://aka.ms/MCFrogFeedback" data-bi-id="n5a3" data-bi-name="aka.ms/mcfrogfeedback">aka.ms/MCFrogFeedback</a>, and as always please search and report any bugs you may find at <a href="http://bugs.mojang.com/" data-bi-id="n6a3" data-bi-name="bugs.mojang.com">bugs.mojang.com</a></p><p>The beta update is currently available on Windows and Xbox, and will be coming to Android soon.</p><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4 style="text-align: center;"><strong>Features and Bug Fixes</strong></h4><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h5><strong>Performance and Stability</strong></h5><ul><li>Fixed several crashes that could occur during gameplay</li><li>Fixed a crash that could sometime occur when computing the loot table of a Villager without user data </li></ul><h5><strong>Pathfinding</strong></h5><ul><li>Fixed an issue where the &#8220;Ranged Attack Goal&#8221; could not be used to move mobs in some Marketplace packs </li></ul><h5><strong>User Interface</strong></h5><ul><li>Play screen exit button now present with touch input on Nintendo Switch </li><li>Fixed crash when hovering a pattern in the Stonecutter UI </li></ul><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4 style="text-align: center;"><strong>Technical</strong></h4><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><ul><li>Fixed block namespace not being recorded in item stack&#8217;s placement and destroy rules when sent over the network or saved to disk </li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Minecraft Beta &#8211; 1.18.10.27</title>
+		<link>https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/</link>
+		
+		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 20:15:14 +0000</pubDate>
+				<category><![CDATA[All News]]></category>
+		<category><![CDATA[Bedrock News]]></category>
+		<guid isPermaLink="false">https://mczone89.github.io/?p=702</guid>
+
+					<description><![CDATA[Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at&#160;aka.ms/MCFrogFeedback, and as always please search and report any bugs you may find at&#160;bugs.mojang.com &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Experimental Features &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Frogs Frogs no longer eat Goats! (MCPE-151536) &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Features and Bug Fixes &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- Blocks Cocoa &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/minecraft-beta-1-18-10-27-xbox-windows-android/"> <span class="screen-reader-text">Minecraft Beta &#8211; 1.18.10.27</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="702" class="elementor elementor-702" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8d76f" data-id="3b8d76f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88f7265 elementor-widget elementor-widget-text-editor" data-id="88f7265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="wysiwyg-text-align-center"><img loading="lazy" class="aligncenter" src="https://feedback.minecraft.net/hc/article_attachments/4420159360013/Picture1.jpg" alt="Picture1.jpg" width="574" height="323" /></p><p>Here&#8217;s a list of what is new in this week&#8217;s Beta! Please leave us any specific feedback or suggestions in the thread at <a href="https://aka.ms/MCFrogFeedback" data-bi-id="n5a3" data-bi-name="aka.ms/mcfrogfeedback">aka.ms/MCFrogFeedback</a>, and as always please search and report any bugs you may find at <a href="http://bugs.mojang.com/" data-bi-id="n6a3" data-bi-name="bugs.mojang.com">bugs.mojang.com</a></p><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4 style="text-align: center;"><span class="wysiwyg-font-size-x-large"><strong>Experimental Features</strong></span></h4><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4><span class="wysiwyg-font-size-large"><strong>Frogs</strong></span></h4><ul><li>Frogs no longer eat Goats! (<a href="https://bugs.mojang.com/browse/MCPE-151536" data-bi-id="n7a3" data-bi-name="mcpe-151536">MCPE-151536</a>)</li></ul><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4 style="text-align: center;"><span class="wysiwyg-font-size-x-large"><strong>Features and Bug Fixes</strong></span></h4><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4><span class="wysiwyg-font-size-large"><strong>Blocks</strong></span></h4><ul><li>Cocoa Pods placed on chunk borders don&#8217;t break anymore upon reloading the World (<a href="https://bugs.mojang.com/browse/MCPE-67479" data-bi-id="n8a3" data-bi-name="mcpe-67479">MCPE-67479</a>)</li><li>Structure Block structures now correctly transform (rotate and/or mirror) multiface blocks (e.g. Glow Lichen)</li></ul><h4><span class="wysiwyg-font-size-large"><strong>Gameplay</strong></span></h4><ul><li>Fixed Observer block retaining its lit state while in the inventory if destroyed while blinking (<a href="https://bugs.mojang.com/browse/MCPE-114173" data-bi-id="n9a3" data-bi-name="mcpe-114173">MCPE-114173</a>)</li><li>Fixed a bug where Paintings could overlap with Glow Item Frames, Signs, Banners, and Torches</li><li>Pillager Outposts now spawn the correct number of Pillagers and Golems (<a href="https://bugs.mojang.com/browse/MCPE-141499" data-bi-id="n10a3" data-bi-name="mcpe-141499">MCPE-141499</a>)</li></ul><h4><span class="wysiwyg-font-size-large"><strong>Graphical</strong></span></h4><ul><li>Boats will no longer disappear when getting out of them after a long ride (<a href="https://bugs.mojang.com/browse/MCPE-108568" data-bi-id="n11a3" data-bi-name="mcpe-108568">MCPE-108568</a>, <a class="c-link" href="https://bugs.mojang.com/browse/MCPE-125388" target="_blank" rel="noopener noreferrer" data-bi-id="n12a3" data-bi-name="mcpe-125388">MCPE-125388</a>)</li><li>Boat oars now have the same color as the Boat (<a href="https://bugs.mojang.com/browse/MCPE-150492" data-bi-id="n13a3" data-bi-name="mcpe-150492">MCPE-150492</a>)</li></ul><h4><span class="wysiwyg-font-size-large"><strong>Mobs</strong></span></h4><ul><li>Untamed Cats can now be leashed</li><li>Guardians and Elder Guardians no longer sink while targeting an enemy or the player</li></ul><h4><span class="wysiwyg-font-size-large"><strong>User Interface</strong></span></h4><ul><li>The Construction tab on the inventory screen now has the correct color when using Pocket UI</li><li>Fixed an issue with missing Inventory slots when using Pocket UI (<a href="https://bugs.mojang.com/browse/MCPE-151545" data-bi-id="n14a3" data-bi-name="mcpe-151545">MCPE-151545</a>)</li><li>Fixed an issue with blank inventory slots in the creative inventory, which could cause interaction issues in the world (<a href="https://bugs.mojang.com/browse/MCPE-151506" data-bi-id="n15a3" data-bi-name="mcpe-151506">MCPE-151506</a>)</li></ul><h4><span class="wysiwyg-font-size-large"><strong>World Generation</strong></span></h4><ul><li>Chests and Monster Spawners now spawn correctly in structures (<a href="https://bugs.mojang.com/browse/MCPE-23416" data-bi-id="n16a3" data-bi-name="mcpe-23416">MCPE-23416</a>) (<a href="https://bugs.mojang.com/browse/MCPE-48622" data-bi-id="n17a3" data-bi-name="mcpe-48622">MCPE-48622</a>) (<a href="https://bugs.mojang.com/browse/MCPE-97295" data-bi-id="n18a3" data-bi-name="mcpe-97295">MCPE-97295</a>)</li></ul><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4 style="text-align: center;"><span class="wysiwyg-font-size-x-large"><strong>Technical Updates</strong></span></h4><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><h4><span class="wysiwyg-font-size-large"><strong>Stability and Performance</strong></span></h4><ul><li>Reduced memory and load times for ticking areas</li></ul><h4><span class="wysiwyg-font-size-large"><strong>GameTest Framework (Experimental)</strong></span></h4><ul><li>Added function setVelocity(velocity: Vector): bool- Sets the velocity of this entity</li><li>Added property viewVector: Vector- Represents the direction that the entity is looking, as a vector</li><li>Added property headLocation: Location- Represents the location of the head of the entity</li><li>Added property bodyRotation: number- Represents the body rotation of the entity as a float (in degrees)</li></ul><h4><span class="wysiwyg-font-size-large"><strong>Animation</strong></span></h4><ul><li>Fixed a bug where animation events, sound effect events, and particle events would not trigger if the event time specified was equal to the total &#8220;animation_length&#8221;</li><li>Fixed an issue where event times were not considered within the animation length calculation that happens when &#8220;animation_length&#8221; is not explicitly specified</li></ul><h4><span class="wysiwyg-font-size-large"><strong>General</strong></span></h4><ul><li>Fixed an issue that caused format_versions that are declared as numerical values rather than strings to be parsed properly</li><li>When creating a flat world from a template that has a base game version from before the Caves and Cliffs update, the layers will no longer be 64 blocks in the air</li></ul><h4><span class="wysiwyg-font-size-large"><strong>Molang</strong></span></h4><ul><li>Added alland query.any to check if a value matches all or any of the following values</li><li>Added in_rangeto check if a value is in the (inclusive) range between a min and max value</li><li>Added query.in_range to check if a value is in the (inclusive) range between a min and max value</li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

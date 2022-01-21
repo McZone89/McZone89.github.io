@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dungeons News &#8211; McZone</title>
+	<atom:link href="https://mczone89.github.io/category/dungeons-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mczone89.github.io</link>
+	<description>A Minecraft News Site</description>
+	<lastBuildDate>Thu, 20 Jan 2022 21:15:30 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<title>Dungeons News &#8211; McZone</title>
+	<link>https://mczone89.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</title>
+		<link>https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/</link>
+		
+		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 21:13:29 +0000</pubDate>
+				<category><![CDATA[All News]]></category>
+		<category><![CDATA[Dungeons News]]></category>
+		<guid isPermaLink="false">https://mczone89.github.io/?p=740</guid>
+
+					<description><![CDATA[1.12.2.0 (Consoles Only) &#8211; January 12, 2022 There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb. Please search for any bugs you find on bugs.mojang.com and let us know what you think at feedback.minecraft.net. We appreciate your continued support in reporting issues! Fixes: Improved stability of &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/dungeon-1-12-x-0/"> <span class="screen-reader-text">Minecraft Dungeons 1.12.1.0 &#038; 1.12.2.0</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="740" class="elementor elementor-740" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8d76f" data-id="3b8d76f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88f7265 elementor-widget elementor-widget-text-editor" data-id="88f7265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span class="wysiwyg-font-size-large"><strong><img class="aligncenter" src="https://help.minecraft.net/hc/article_attachments/4420334179213/patchnotes_1.12.2.0.png" alt="patchnotes_1.12.2.0.png" /></strong></span></p><p><span class="wysiwyg-font-size-large"><strong>1.12.2.0 (Consoles Only) &#8211; January 12, 2022</strong></span></p><p>There is a new update for Minecraft Dungeons on consoles that addresses some issues found since the release of Cloudy Climb.</p><p>Please search for any bugs you find on <a href="https://bugs.mojang.com/" data-bi-id="n1a3" data-bi-name="bugs.mojang.com">bugs.mojang.com</a> and let us know what you think at <a href="https://feedback.minecraft.net/" data-bi-id="n2a3" data-bi-name="feedback.minecraft.net">feedback.minecraft.net</a>. We appreciate your continued support in reporting issues!</p><p><strong>Fixes:</strong></p><ul><li>Improved stability of some back-end services</li></ul><h4 style="text-align: center;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-</h4><p><img class="aligncenter" src="https://help.minecraft.net/hc/article_attachments/4416864879757/patchnotes_1.12.1.0.png" alt="patchnotes_1.12.1.0.png" /></p><p><span class="wysiwyg-font-size-large"><strong>1.12.1.0 (PC Only) &#8211; December 17, 2021</strong></span></p><p>A new update is now available for Minecraft Dungeons on PC that addresses some issues found since the release of Cloudy Climb.</p><p>Please search for any bugs you find on <a href="https://bugs.mojang.com/" data-bi-id="n3a3" data-bi-name="bugs.mojang.com">bugs.mojang.com</a> and let us know what you think at <a href="https://feedback.minecraft.net/" data-bi-id="n4a3" data-bi-name="feedback.minecraft.net">feedback.minecraft.net</a>. We appreciate your continued support in reporting issues!</p><p><strong>Fixes:</strong></p><ul><li>Fixed a crash that would occur after failing a Tower run (<a href="https://bugs.mojang.com/browse/MCD-6893" data-bi-id="n5a3" data-bi-name="mcd-6893">MCD-6893</a>)</li><li>Fixed Season 1 achievements on Steam not unlocking after meeting the specified criteria (<a href="https://bugs.mojang.com/browse/MCD-6915" data-bi-id="n6a3" data-bi-name="mcd-6915">MCD-6915</a>)</li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

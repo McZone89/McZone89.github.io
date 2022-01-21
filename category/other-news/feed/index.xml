@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Other News &#8211; McZone</title>
+	<atom:link href="https://mczone89.github.io/category/other-news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mczone89.github.io</link>
+	<description>A Minecraft News Site</description>
+	<lastBuildDate>Thu, 20 Jan 2022 21:00:35 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>https://mczone89.github.io/wp-content/uploads/2022/01/New-profile-picture-150x150.png</url>
+	<title>Other News &#8211; McZone</title>
+	<link>https://mczone89.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Minecraft Education Edition &#8211; 1.0.1</title>
+		<link>https://mczone89.github.io/2022/01/20/education-edition-1-0-1/</link>
+		
+		<dc:creator><![CDATA[realmcmonkey]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 20:59:03 +0000</pubDate>
+				<category><![CDATA[All News]]></category>
+		<category><![CDATA[Other News]]></category>
+		<guid isPermaLink="false">https://mczone89.github.io/?p=737</guid>
+
+					<description><![CDATA[For more information about Minecraft: Education Edition, please visit education.minecraft.net New Features: Code Builder &#38; Agent Command blocks &#38; minecart with command block Adventure Mode New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle New user interface for Classroom Mode Added the ability to toggle chat &#38; weather in Classroom Mode Added &#8216;/position&#8217; command &#8230;<p class="read-more"> <a class="" href="https://mczone89.github.io/2022/01/20/education-edition-1-0-1/"> <span class="screen-reader-text">Minecraft Education Edition &#8211; 1.0.1</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="737" class="elementor elementor-737" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-86c9e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86c9e0f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b8d76f" data-id="3b8d76f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88f7265 elementor-widget elementor-widget-text-editor" data-id="88f7265" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>For more information about Minecraft: Education Edition, please visit <a href="https://feedback.minecraft.net/hc/en-us/articles/education.minecraft.net" data-bi-id="n4a3" data-bi-name="education.minecraft.net">education.minecraft.net</a><br /><br /><strong>New Features:</strong></p><ul><li>Code Builder &amp; Agent</li><li>Command blocks &amp; minecart with command block</li><li>Adventure Mode</li><li>New game rules: DoFireTick, DoMobSpawning, DoTileDrops, MobGriefing, DoEntityDrops, KeepInventory, DoMobLoot, DoDaylightCycle</li><li>New user interface for Classroom Mode</li><li>Added the ability to toggle chat &amp; weather in Classroom Mode</li><li>Added &#8216;/position&#8217; command to toggle player coordinates on the HUD</li><li>Add-Ons (Resource Packs)</li><li>Added new EDU template worlds.</li><li>Added the Storage screen in Settings to manage worlds, resource packs, and behavior packs</li><li>Villager trading</li><li>Llamas</li><li>Shulker Boxes</li><li>Illagers (Evokers &amp; Vindicators)</li><li>Vex</li><li>Woodland Mansions</li><li>Concrete &amp; concrete powder</li><li>Glazed terracotta blocks</li><li>Dyeable &amp; jumpable beds</li><li>Iron and Gold tools can now be smelted into Iron Nuggets and Gold Nuggets</li><li>Totem of Undying</li><li>Off-hand slot (only works for arrows &amp; the Totem of Undying)</li><li>Mending &amp; Frostwalking enchantments</li><li>Added a setting to toggle Smooth Lighting</li></ul><p><br /><strong>Bug Fixes:</strong></p><ul><li>Simplified the world builder command! Typing /worldbuilder or /wb will toggle the world builder ability on and off</li><li>Fixed the host not having worldbuilder enabled after creating a new world</li><li>Fixed worlds being limited to 5 players instead of 30 when using Local server option</li><li>The correct error message will now appear when attempting to join Vanilla games</li><li>Sounds now properly stop when Global Pause is enabled</li><li>Fixed performance issues caused by Global Pause</li><li>Fixed the name of the NPC spawn egg</li><li>The eating animation will no longer occur when using a Camera</li><li>Corrected fixed inventory slots not highlighting if hotbar slots 1, 2 or 3 were equipped with an Ender Pearl and the object is thrown</li><li>Fixed the picture numbers in the Portfolio to support more than 100 pictures</li><li>The map in Classroom Mode now updates properly after TNT explodes</li><li>Fixed sound effect when taking pictures using the camera</li><li>Fixed a crash that may occur when typing into text fields on macOS Sierra</li><li>Fixed inventory search not returning results on macOS</li><li>Fixed severe delays in Classroom Mode when executing commands after an extended time period with a full world</li><li>Fixed character limits on slates, boards, &amp; posters</li><li>Fixed a crash when a NPC was killed while editing its text</li><li>Worldbuilder ability is no longer enabled by default</li><li>Fixed the unlock icon so it no longer appears when choosing a skin</li><li>Placeholder checkboard squares are no longer displayed in Portfolio.</li><li>Fixed inventory slots can now be set when using the /setfixedinvslot command through Classroom Mode</li></ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
